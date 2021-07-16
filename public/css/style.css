@@ -1,0 +1,5 @@
+img {
+  height: 100vh;
+  width: -webkit-fill-available;
+  background-color: gray;
+}
