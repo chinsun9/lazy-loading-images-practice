@@ -13,3 +13,8 @@ img {
 #bg-image.lazy {
   background-image: none;
 }
+
+.container {
+  height: 80vh;
+  overflow-y: scroll;
+}
