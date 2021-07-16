@@ -1,0 +1,20 @@
+img {
+  height: 100vh;
+  width: -webkit-fill-available;
+  background-color: gray;
+}
+
+#bg-image {
+  background-image: url("https://via.placeholder.com/468x200?text=2");
+  background-color: gray;
+  height: 400px;
+}
+
+#bg-image.lazy {
+  background-image: none;
+}
+
+.container {
+  height: 80vh;
+  overflow-y: scroll;
+}
